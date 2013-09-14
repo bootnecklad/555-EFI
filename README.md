@@ -5,7 +5,7 @@ An electronic fuel injection system for the Rover 3.5L V8 engine based off a 555
 
 =======
 
-I think an Electronic Fuel Injection system based off of the 555 timer would be something sepcial. Below are my thoughts on possibly the most basic injection system I could come up based on the 555 timer.
+I think an Electronic Fuel Injection system based off of the 555 timer would be something special. Below are my thoughts on possibly the most basic injection system I could come up based on the 555 timer.
 
 There are three things I can think of that would be needed:
 
